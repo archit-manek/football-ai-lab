@@ -5,7 +5,7 @@ This is my space to practice, experiment, and share projects at the intersection
 
 ---
 
-## 📚 About This Lab
+## About This Lab
 
 The goal of this lab is to:
 
@@ -18,7 +18,7 @@ All projects are organized under the `/projects` directory, each with its own RE
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - Python
 - Pandas, NumPy
@@ -29,7 +29,7 @@ All projects are organized under the `/projects` directory, each with its own RE
 
 ---
 
-## 📂 Project List
+## Project List
 
 | Project | Description |
 |:---|:---|
@@ -39,13 +39,13 @@ All projects are organized under the `/projects` directory, each with its own RE
 
 ---
 
-## 📜 License
+## License
 
 This repository is licensed under the [MIT License](LICENSE).
 
 ---
 
-# Thank you for visiting!
+## Thank you for visiting!
 
 Feel free to explore, clone, or contribute ideas.  
 This is an ongoing journey of learning and discovery.
